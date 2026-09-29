@@ -1,0 +1,5 @@
+aiogram
+aiosqlite
+ddgs
+python-dotenv
+aiohttp
